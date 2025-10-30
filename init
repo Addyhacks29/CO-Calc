@@ -1,0 +1,7 @@
+cd C:\Users\Dell\CascadeProjects\CO-Attainment-Calculator
+git init
+git add .
+git commit -m "Initial commit - CO Attainment Calculator"
+git branch -M main
+git remote add origin https://github.com/YOUR_USERNAME/co-attainment-calculator.git
+git push -u origin main
